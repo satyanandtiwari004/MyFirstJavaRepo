@@ -1,9 +1,9 @@
 Hello git
 
--->Change1
+-->Change 1
 
 -->Change 2
 
 -->Change 3
 
--->Change 4new
+-->Change 4newer
